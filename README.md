@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Dishant Chavan 👋
 
-<!--
-**dishantchavan7/dishantchavan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | Builder | Explorer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨🏽‍💻 About Me
+I love building stuff 💪🏽 — from data-driven solutions to creative side-projects. Always curious, always learning.
+
+---
+
+### 🛠️ Skills & Tools
+- **Languages:** Python, SQL
+- **Specialties:** Machine Learning, Data Analysis
+- **Cloud/Data:** Snowflake
+
+---
+
+### 🚀 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/dishantchavan/)](https://www.linkedin.com/in/dishantchavan/)
+
+---
+
+### 🤩 Fun Facts
+- 🏋🏽 I love to lift — gym is my second home
+- 📚 Avid reader, always hunting for my next favorite book
+- 🌍 Traveling & exploring new places keeps me inspired
+- 🧊 Sometimes, I just chill and recharge
+
+---
+
+> “Keep building, keep growing, keep exploring!”
