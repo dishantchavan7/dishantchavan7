@@ -9,10 +9,10 @@ I love building stuff 💪🏽 — from data-driven solutions to creative side-p
 
 ---
 
-### 🛠️ Skills & Tools
-- **Languages:** Python, SQL
-- **Specialties:** Machine Learning, Data Analysis
-- **Cloud/Data:** Snowflake
+### 🛠️ Languages & Tools
+
+Python | SQL | Pandas | NumPy | Matplotlib | Power BI  
+Airflow | dbt | PostgreSQL | Snowflake | Git | Jupyter
 
 ---
 
